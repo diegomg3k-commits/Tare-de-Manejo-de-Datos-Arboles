@@ -1,4 +1,3 @@
-GIFTS del primer arbol ABB 
 <video src="ABB 1.1.mp4" loop autoplay muted></video>
 <video src="ABB 1.2.mp4" loop autoplay muted></video>
 <video src="ABB 1.3.mp4" loop autoplay muted></video>
@@ -9,7 +8,6 @@ GIFTS del primer arbol ABB
 <video src="ABB 1.8.mp4" loop autoplay muted></video>
 <video src="ABB 1.9.mp4" loop autoplay muted></video>
 <video src="ABB 2.mp4" loop autoplay muted></video>
-GIFTS del segundo arbol AVL
 <video src="AVL 1.1.mp4" loop autoplay muted></video>
 <video src="AVL 1.2.mp4" loop autoplay muted></video>
 <video src="AVL 1.3.mp4" loop autoplay muted></video>
