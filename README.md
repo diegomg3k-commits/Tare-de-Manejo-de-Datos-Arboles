@@ -1,4 +1,22 @@
-
-[![Video de Demostración 1](https://img.youtube.com/vi/no4dKAq5WvE/0.jpg)](https://www.youtube.com/watch?v=no4dKAq5WvE)
-
-[![Video de Demostración 2](https://img.youtube.com/vi/YCpiUVDlPLo/0.jpg)](https://www.youtube.com/watch?v=YCpiUVDlPLo)
+GIFTS del primer arbol ABB 
+<video src="ABB 1.1.mp4" loop autoplay muted></video>
+<video src="ABB 1.2.mp4" loop autoplay muted></video>
+<video src="ABB 1.3.mp4" loop autoplay muted></video>
+<video src="ABB 1.4.mp4" loop autoplay muted></video>
+<video src="ABB 1.5.mp4" loop autoplay muted></video>
+<video src="ABB 1.6.mp4" loop autoplay muted></video>
+<video src="ABB 1.7.mp4" loop autoplay muted></video>
+<video src="ABB 1.8.mp4" loop autoplay muted></video>
+<video src="ABB 1.9.mp4" loop autoplay muted></video>
+<video src="ABB 2.mp4" loop autoplay muted></video>
+GIFTS del segundo arbol AVL
+<video src="AVL 1.1.mp4" loop autoplay muted></video>
+<video src="AVL 1.2.mp4" loop autoplay muted></video>
+<video src="AVL 1.3.mp4" loop autoplay muted></video>
+<video src="AVL 1.4.mp4" loop autoplay muted></video>
+<video src="AVL 1.5.mp4" loop autoplay muted></video>
+<video src="AVL 1.6.mp4" loop autoplay muted></video>
+<video src="AVL 1.7.mp4" loop autoplay muted></video>
+<video src="AVL 1.8.mp4" loop autoplay muted></video>
+<video src="AVL 1.9.mp4" loop autoplay muted></video>
+<video src="AVL 2.mp4" loop autoplay muted></video>
